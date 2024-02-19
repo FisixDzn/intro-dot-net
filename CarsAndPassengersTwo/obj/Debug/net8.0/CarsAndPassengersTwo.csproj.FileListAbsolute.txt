@@ -1,0 +1,14 @@
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\bin\Debug\net8.0\CarsAndPassengersTwo.exe
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\bin\Debug\net8.0\CarsAndPassengersTwo.deps.json
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\bin\Debug\net8.0\CarsAndPassengersTwo.runtimeconfig.json
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\bin\Debug\net8.0\CarsAndPassengersTwo.dll
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\bin\Debug\net8.0\CarsAndPassengersTwo.pdb
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\CarsAndPassengersTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\CarsAndPassengersTwo.AssemblyInfoInputs.cache
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\CarsAndPassengersTwo.AssemblyInfo.cs
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\CarsAndPassengersTwo.csproj.CoreCompileInputs.cache
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\CarsAndPassengersTwo.dll
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\refint\CarsAndPassengersTwo.dll
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\CarsAndPassengersTwo.pdb
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\CarsAndPassengersTwo.genruntimeconfig.cache
+C:\Users\003031822\Desktop\intro-dot-net\CarsAndPassengersTwo\obj\Debug\net8.0\ref\CarsAndPassengersTwo.dll

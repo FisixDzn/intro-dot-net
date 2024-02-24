@@ -1,0 +1,16 @@
+
+    ID: 6b33db47-0d19-46de-8851-9250c97e5302
+    Full Name: Anakin Skywalker
+    Annual Salary: 97000
+    Position ID: 47285220-ed1a-42fb-a623-33daff09c6d2
+    Position Description: Software Engineer
+    
+    Benefits:
+    ---------
+    
+        Description: Additional Bonus
+        Additional: 3000
+        
+        Description: Paid Vacation
+        Additional: 2500
+        

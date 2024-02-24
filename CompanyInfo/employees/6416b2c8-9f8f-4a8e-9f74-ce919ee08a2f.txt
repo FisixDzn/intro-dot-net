@@ -1,0 +1,18 @@
+
+        ID: 6416b2c8-9f8f-4a8e-9f74-ce919ee08a2f
+        Full Name: Jane Doe
+        Annual Salary: 150000
+            Position
+            ---------
+            Position ID: b57fe795-0fbf-4da8-bab8-c6a2ba4e709d
+            Position Description: CIO
+            
+             Benefits
+             ---------
+                           
+                Additional: 3000
+                Description: Additional Bonus
+                               
+                Additional: 2500
+                Description: Paid Vacation
+                

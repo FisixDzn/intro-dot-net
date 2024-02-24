@@ -1,0 +1,14 @@
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\bin\Debug\net8.0\Lists.exe
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\bin\Debug\net8.0\Lists.deps.json
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\bin\Debug\net8.0\Lists.dll
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\bin\Debug\net8.0\Lists.pdb
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\Lists.dll
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\refint\Lists.dll
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\Lists.pdb
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+C:\Users\natha\Desktop\intro-dot-net\Lists\Lists\obj\Debug\net8.0\ref\Lists.dll

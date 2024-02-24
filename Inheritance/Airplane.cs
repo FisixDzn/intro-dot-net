@@ -1,0 +1,30 @@
+public class Airplane : Vehicle {
+    public string Airline { get; set;}
+    public int MaxAltitude { get; private set;}    
+    protected int NumEngines { get; set;}
+    
+    public Airplane(string airline, int maxAltitude, int numEngines)
+    {
+        this.Airline = airline;
+        this.MaxAltitude = maxAltitude;
+        this.NumEngines = numEngines;
+        System.Console.WriteLine("airplane constructor");
+    }
+        
+    public override void Drive() {
+        Console.WriteLine("Airplane is flying");
+    }
+        
+    public override void Stop() {
+        Console.WriteLine("Airplane is landing");
+    }
+    
+    public void DeployLandingGear() {
+        Console.WriteLine("Deploying landing gear");
+    }
+    
+    protected void EngineCheck() {
+        Console.WriteLine("Checking " + NumEngines + " engines");
+    }
+
+}

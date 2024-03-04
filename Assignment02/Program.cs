@@ -3,7 +3,7 @@ using System.Text.Json;
 using Assignment02.Models;
 
 //prompt 1: create an instance of TvShowWriter with a specific write directory path. Verify that the directory exists after initialization.
-string baseDirPath = @"C:/Users/natha/Desktop/intro-dot-net/Assignment02";
+string baseDirPath = @"C:\Users\003031822\Desktop\assinment02\intro-dot-net\Assignment02";
 string writeDirPath = "./tvshow_directory";
 TvShowWriter tvShowWriterA = new TvShowWriter(baseDirPath, writeDirPath);
 
@@ -21,7 +21,7 @@ System.Console.WriteLine(Directory.GetCurrentDirectory());
 
 /* prompt 4: given a list of TvShow objects with varying OriginCountry values, use CreateCountryDirectories to create directories 
 for each unique country. Verify that no duplicate directories are created. */
-//tvShowWriterA.CreateCountryDirectories(tvShowList, "countries", true);
+tvShowWriterA.CreateCountryDirectories(tvShowList, "countries", true);
 
 // prompt 5: after calling CreateCountryDirectories, verify that when returnToBasePath is true, the current working directory is set back to the base directory.
 System.Console.WriteLine(Directory.GetCurrentDirectory());

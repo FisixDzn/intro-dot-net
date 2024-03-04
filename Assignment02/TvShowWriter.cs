@@ -40,19 +40,23 @@ public class TvShowWriter
     public int CreateCountryDirectories(List<TvShow> tvShows, string countryDirName, bool returnToBasePath = true)
     {
         int count = 0;
-        string countryDirPath = Path.Combine(WriteDirPath, countryDirName);
-        if(!Directory.Exists(countryDirPath))
+        //string countryDirPath = Path.Combine(WriteDirPath, countryDirName);
+        Directory.SetCurrentDirectory(WriteDirPath);
+        if(!Directory.Exists(countryDirName))
         {
-            Directory.CreateDirectory(countryDirPath);
-            count++;
+            //System.Console.WriteLine("country dir path: ");
+            //System.Console.WriteLine(countryDirPath);
+            Directory.CreateDirectory(countryDirName);
         }
-        Directory.SetCurrentDirectory(countryDirPath);
+        Directory.SetCurrentDirectory(countryDirName);
         foreach(var show in tvShows)
         {
-            string originPropertyPath = Path.Combine(countryDirPath, $"./{show.OriginCountry}");
-            if(!Directory.Exists(originPropertyPath))
+            //string originPropertyPath = Path.Combine(countryDirPath, $"./{show.OriginCountry}");
+            if(!Directory.Exists(show.OriginCountry))
             {
-                Directory.CreateDirectory(originPropertyPath);
+                //System.Console.WriteLine("origin property path:");
+                //System.Console.WriteLine(originPropertyPath);
+                Directory.CreateDirectory(show.OriginCountry);
                 count++;
             }
         }
@@ -84,15 +88,21 @@ public class TvShowWriter
     public void WriteShowsByCountry(List<TvShow> tvShows, string countryDirName, bool returnToBasePath = true)
     {
         CreateCountryDirectories(tvShows, countryDirName, returnToBasePath);
-        string pathToCountry = $"./{WriteDirPath}/{countryDirName}";
+        string pathToCountry = $"{WriteDirPath}/{countryDirName}";
+        System.Console.WriteLine(pathToCountry);
         Directory.SetCurrentDirectory(pathToCountry);
-        string[] subdirectories = Directory.GetDirectories(pathToCountry);
-        Directory.SetCurrentDirectory(subdirectories[0]);
+        System.Console.WriteLine(Directory.GetCurrentDirectory());
+        string[] subdirectories = Directory.GetDirectories(Directory.GetCurrentDirectory());
         foreach(var s in subdirectories)
         {
             foreach(var show in tvShows)
             {
-                Write(show);
+                if(Path.GetFileName(s) == show.OriginCountry)
+                {
+                    Directory.SetCurrentDirectory(s);
+                    this.Write(show);
+                    Directory.SetCurrentDirectory("..");
+                }
             }
         }
     }

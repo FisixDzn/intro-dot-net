@@ -1,0 +1,12 @@
+
+        ID: 116416
+        Backdrop Path: /ykbaElzavtSbsYG5KbG3pEpREtK.jpg
+        Name: Big Brother 7/7
+        Origin Country: CA
+        Original Language: fr
+        Original Name: Big Brother 7/7
+        Overview: 
+        Popularity: 628.845
+        Poster Path: https://image.tmdb.org/t/p/w500/iUYrQyv0p4UncFolsROm81VNbcB.jpg
+        Vote Average: 4.1
+        Vote Count: 10

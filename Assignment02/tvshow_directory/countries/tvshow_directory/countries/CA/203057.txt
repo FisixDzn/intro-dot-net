@@ -1,0 +1,12 @@
+
+        ID: 203057
+        Backdrop Path: /iDUgitOS7GA1rRZCRL0JsCdyREf.jpg
+        Name: Melur Untuk Firdaus
+        Origin Country: MY
+        Original Language: ms
+        Original Name: Melur Untuk Firdaus
+        Overview: Melur Untuk Firdaus is a 2022 Malaysian television drama series directed by Zamri Zakaria with a script by Wan Mahani Wan Hasan. Starring Anna Jobling, Meerqeen, Nesa Idrus, Fimie Don and many others, this series is an adaptation of the novel My Rude Wife by Cik Nor Cinta and started airing on Slot Lestary, TV3 from 27 May 2022 until 15 July 2022 replacing Do You Love Me Captain.
+        Popularity: 1362.411
+        Poster Path: https://image.tmdb.org/t/p/w500/rVxQxsY3bQWTabHUi2Qr3aoOafk.jpg
+        Vote Average: 6
+        Vote Count: 2

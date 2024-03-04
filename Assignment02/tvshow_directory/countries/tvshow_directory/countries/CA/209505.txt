@@ -1,0 +1,14 @@
+
+        ID: 209505
+        Backdrop Path: 
+        Name: Mavro Rodo
+        Origin Country: GR
+        Original Language: el
+        Original Name: Μαύρο Ρόδο
+        Overview: Indeed, in the new series of MEGA "Black Rose" we will see several changes in the case, regarding the book. At the center of our story will be Sister Elizabeth, who has dedicated her life to God. As a child she had contracted meningitis and her parents sent her to Panagia, as a result, when the girl recovered, they urged her to follow the monastic life.After a big earthquake, the monastery shows cracks and huge damages. The abbess asks Sister Elisabeth, who is still a probationary nun, to go to her village outside Ioannina for a while until the damage is repaired.
+
+There, Sister Elizabeth will attend the party organized by her step-sister and meet the young man who will steal her heart. He, completely in love with her, will chase her to the monastery. This love will put the nun in a dilemma: Should she follow her heart and fall in love or remain in the choice of monastic life?
+        Popularity: 1098.787
+        Poster Path: https://image.tmdb.org/t/p/w500/5AnWY9onA6a8GJZuDLeeQohh2PG.jpg
+        Vote Average: 4.7
+        Vote Count: 3

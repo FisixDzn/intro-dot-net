@@ -1,0 +1,15 @@
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\bin\Debug\net8.0\CompanyInfo.exe
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\bin\Debug\net8.0\CompanyInfo.deps.json
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\bin\Debug\net8.0\CompanyInfo.runtimeconfig.json
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\bin\Debug\net8.0\CompanyInfo.dll
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\bin\Debug\net8.0\CompanyInfo.pdb
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.AssemblyInfo.cs
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.sourcelink.json
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.dll
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\refint\CompanyInfo.dll
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.pdb
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\CompanyInfo.genruntimeconfig.cache
+C:\Users\natha\Desktop\intro-dot-net\CompanyInfo\obj\Debug\net8.0\ref\CompanyInfo.dll

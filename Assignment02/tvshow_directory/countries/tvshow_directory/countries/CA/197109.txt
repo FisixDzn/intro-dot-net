@@ -1,0 +1,12 @@
+
+        ID: 197109
+        Backdrop Path: 
+        Name: Yeh Rishta Kya Kehlata Hai
+        Origin Country: IN
+        Original Language: hi
+        Original Name: ये रिश्ता क्या कहलाता है
+        Overview: A personal tragedy creates a rift in Abhimanyu and Akshara's marital life. Years later, when destiny offers a second chance, will the duo embrace love?
+        Popularity: 1430.717
+        Poster Path: https://image.tmdb.org/t/p/w500/6ZfiG4P7jivJV0wgcNMSiS2Owhh.jpg
+        Vote Average: 4.9
+        Vote Count: 16

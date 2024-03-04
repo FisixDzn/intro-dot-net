@@ -1,0 +1,12 @@
+
+        ID: 219082
+        Backdrop Path: /nk9lbQoM4QMaBarSJIQ6bl6FEwn.jpg
+        Name: Dear Ishq
+        Origin Country: IN
+        Original Language: hi
+        Original Name: Dear Ishq
+        Overview: Famous author Abhimanyu gets swept up in a cutthroat challenge with Asmita, for whom life is beyond paperback fiction. In the face of rivalry, will love bloom?
+        Popularity: 1324.323
+        Poster Path: https://image.tmdb.org/t/p/w500/xnJNCnmwFNGqDHp5ATkrDCaOsxO.jpg
+        Vote Average: 8
+        Vote Count: 1

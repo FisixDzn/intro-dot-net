@@ -1,0 +1,12 @@
+
+        ID: 213017
+        Backdrop Path: 
+        Name: Lo Zoo di 105
+        Origin Country: IT
+        Original Language: it
+        Original Name: Lo Zoo di 105
+        Overview: 
+        Popularity: 910.414
+        Poster Path: https://image.tmdb.org/t/p/w500/6KL71OV5wHQGk5KZMP3qp7Mj5HA.jpg
+        Vote Average: 3.7
+        Vote Count: 3

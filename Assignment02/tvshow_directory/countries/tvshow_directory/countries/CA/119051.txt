@@ -1,0 +1,12 @@
+
+        ID: 119051
+        Backdrop Path: /iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg
+        Name: Wednesday
+        Origin Country: US
+        Original Language: en
+        Original Name: Wednesday
+        Overview: Wednesday Addams is sent to Nevermore Academy, a bizarre boarding school where she attempts to master her psychic powers, stop a monstrous killing spree of the town citizens, and solve the supernatural mystery that affected her family 25 years ago — all while navigating her new relationships.
+        Popularity: 720.197
+        Poster Path: https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg
+        Vote Average: 8.6
+        Vote Count: 6734

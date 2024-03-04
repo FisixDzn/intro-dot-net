@@ -1,0 +1,12 @@
+
+        ID: 82856
+        Backdrop Path: /6Lw54zxm6BAEKJeGlabyzzR5Juu.jpg
+        Name: The Mandalorian
+        Origin Country: US
+        Original Language: en
+        Original Name: The Mandalorian
+        Overview: After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.
+        Popularity: 1138.317
+        Poster Path: https://image.tmdb.org/t/p/w500/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg
+        Vote Average: 8.5
+        Vote Count: 8659

@@ -1,0 +1,12 @@
+
+        ID: 63174
+        Backdrop Path: /xZUZ9i6vVayjyhR1vRo9Bjku4h.jpg
+        Name: Lucifer
+        Origin Country: US
+        Original Language: en
+        Original Name: Lucifer
+        Overview: Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.
+        Popularity: 689.333
+        Poster Path: https://image.tmdb.org/t/p/w500/ekZobS8isE6mA53RAiGDG93hBxL.jpg
+        Vote Average: 8.5
+        Vote Count: 13316

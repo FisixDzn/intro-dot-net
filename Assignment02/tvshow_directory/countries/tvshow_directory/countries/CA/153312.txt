@@ -1,0 +1,12 @@
+
+        ID: 153312
+        Backdrop Path: /mNHRGO1gFpR2CYZdANe72kcKq7G.jpg
+        Name: Tulsa King
+        Origin Country: US
+        Original Language: en
+        Original Name: Tulsa King
+        Overview: Just after he is released from prison after 25 years, New York mafia capo Dwight “The General” Manfredi is unceremoniously exiled by his boss to set up shop in Tulsa, Okla. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a “crew” from a group of unlikely characters, to help him establish a new criminal empire in a place that to him might as well be another planet.
+        Popularity: 632.586
+        Poster Path: https://image.tmdb.org/t/p/w500/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg
+        Vote Average: 8.6
+        Vote Count: 1041

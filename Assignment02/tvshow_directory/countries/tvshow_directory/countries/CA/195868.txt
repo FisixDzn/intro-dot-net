@@ -1,0 +1,12 @@
+
+        ID: 195868
+        Backdrop Path: /4nXqYVnUJImG0HOAQ2QIryknuMC.jpg
+        Name: Gotham Knights
+        Origin Country: US
+        Original Language: en
+        Original Name: Gotham Knights
+        Overview: In the aftermath of Bruce Wayne's murder, his rebellious adopted son forges an unlikely alliance with the children of Batman's enemies when they are all framed for killing the Caped Crusader.
+        Popularity: 1302.875
+        Poster Path: https://image.tmdb.org/t/p/w500/tbCGmkR3TRDug4weDnHEGCu3WEC.jpg
+        Vote Average: 7.8
+        Vote Count: 21

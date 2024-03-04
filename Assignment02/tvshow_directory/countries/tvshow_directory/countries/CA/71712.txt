@@ -1,0 +1,12 @@
+
+        ID: 71712
+        Backdrop Path: /xXRsKNJHTOGrs5wfYAxkbM2RiyT.jpg
+        Name: The Good Doctor
+        Origin Country: US
+        Original Language: en
+        Original Name: The Good Doctor
+        Overview: Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.
+        Popularity: 643.599
+        Poster Path: https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg
+        Vote Average: 8.5
+        Vote Count: 11221

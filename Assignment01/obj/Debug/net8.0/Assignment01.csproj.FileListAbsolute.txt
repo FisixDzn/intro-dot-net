@@ -16,3 +16,4 @@ C:\Users\natha\Desktop\intro-dot-net\Assignment01\obj\Debug\net8.0\refint\Assign
 C:\Users\natha\Desktop\intro-dot-net\Assignment01\obj\Debug\net8.0\Assignment01.pdb
 C:\Users\natha\Desktop\intro-dot-net\Assignment01\obj\Debug\net8.0\Assignment01.genruntimeconfig.cache
 C:\Users\natha\Desktop\intro-dot-net\Assignment01\obj\Debug\net8.0\ref\Assignment01.dll
+C:\Users\natha\Desktop\intro-dot-net\Assignment01\obj\Debug\net8.0\Assignment01.sourcelink.json

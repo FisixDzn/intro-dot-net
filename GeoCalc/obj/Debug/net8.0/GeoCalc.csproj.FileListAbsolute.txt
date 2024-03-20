@@ -1,0 +1,15 @@
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.AssemblyInfo.cs
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.sourcelink.json
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\bin\Debug\net8.0\GeoCalc.exe
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\bin\Debug\net8.0\GeoCalc.deps.json
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\bin\Debug\net8.0\GeoCalc.runtimeconfig.json
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\bin\Debug\net8.0\GeoCalc.dll
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\bin\Debug\net8.0\GeoCalc.pdb
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.dll
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\refint\GeoCalc.dll
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.pdb
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\GeoCalc.genruntimeconfig.cache
+C:\Users\natha\Desktop\intro-dot-net\GeoCalc\obj\Debug\net8.0\ref\GeoCalc.dll

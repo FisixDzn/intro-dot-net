@@ -1,0 +1,118 @@
+
+            <!DOCTYPE html>
+            <html>
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+            <title>Yellowstone</title>
+        </head>
+        <nav class="fixed top-0 left-0 right-0 z-10 bg-gray-900 text-white p-4">
+            <div class="max-w-7xl mx-auto">
+                <div class="flex justify-between items-center">
+                <a href="#" class="text-2xl font-bold">My Website</a>
+                    <div class="hidden md:flex items-center">
+                    <a href="#" class="px-3 py-2 hover:bg-gray-800">Home</a>
+                    <a href="#" class="px-3 py-2 hover:bg-gray-800">About</a>
+                    <a href="#" class="px-3 py-2 hover:bg-gray-800">Contact</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+	<body>
+        <div class="flex justify-center bg-white mt-24">
+            <select id="tv-show-select" class="bg-gray-50 w-1/4 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                <option value="100088">The Last of Us</option>
+				<option value="213713">Faltu</option>
+				<option value="215103">Teri Meri Doriyaann</option>
+				<option value="221443">星落凝结成糖</option>
+				<option value="221053">Zeit im Bild</option>
+				<option value="221056">Tirol Heute</option>
+				<option value="221708">心想事成</option>
+				<option value="197109">Yeh Rishta Kya Kehlata Hai</option>
+				<option value="221249">O Triângulo</option>
+				<option value="113218">Imlie</option>
+				<option value="111453">Ghum Hai Kisi Ke Pyaar Mein</option>
+				<option value="82856">The Mandalorian</option>
+				<option value="1416">Grey's Anatomy</option>
+				<option value="203057">Melur Untuk Firdaus</option>
+				<option value="219082">Dear Ishq</option>
+				<option value="195868">Gotham Knights</option>
+				<option value="44953">The Lord of the Skies</option>
+				<option value="119051">Wednesday</option>
+				<option value="37757">MasterChef Greece</option>
+				<option value="136598">First Dates NL</option>
+				<option value="209505">Mavro Rodo</option>
+				<option value="73586" selected="selected">Yellowstone</option>
+				<option value="220992">Impossible Love</option>
+				<option value="60735">The Flash</option>
+				<option value="153312">Tulsa King</option>
+				<option value="63174">Lucifer</option>
+				<option value="456">The Simpsons</option>
+				<option value="1622">Supernatural</option>
+				<option value="213017">Lo Zoo di 105</option>
+				<option value="2190">South Park</option>
+				<option value="116416">Big Brother 7/7</option>
+				<option value="71712">The Good Doctor</option>
+				<option value="1402">The Walking Dead</option>
+				<option value="202250">Dirty Linen</option>
+				<option value="219432">No Traces</option>
+				<option value="97951">Mayor of Kingstown</option>
+				<option value="2734">Law & Order: Special Victims Unit</option>
+				<option value="111551">Haireta mou ton Platano</option>
+				<option value="1399">Game of Thrones</option>
+				<option value="60625">Rick and Morty</option>
+				
+            </select>
+            <span class="ml-4">
+            <button type="button" class="btn btn-primary" style="background-color: #007bff !important;" onclick="getValue()">Select</button>
+            </span>
+        </div>
+        <div class="container mx-auto px-4 py-12">
+            <div class="bg-white rounded-lg shadow-lg w-full md:w-1/2 mx-auto" data-aos="fade-up">
+                <div class="flex justify-center">
+                    <img class="object-cover object-center rounded-t-lg" 
+                    src="https://image.tmdb.org/t/p/w500/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg"
+                    alt="Yellowstone">
+                </div>
+                <div class="p-6">
+                    <h2 class="text-xl font-semibold mb-2">Yellowstone</h2>
+                    <p class="text-gray-700 text-sm mb-4">Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.
+                    </p>
+                    <div class="grid grid-cols-2 gap-4">
+                        <div>
+                            <p class="text-gray-600 text-xs">Popularity:</p>
+                            <p class="text-sm">739.724</p>
+                        </div>
+                        <div>
+                            <p class="text-gray-600 text-xs">Vote Average:</p>
+                            <p class="text-sm">8.1</p>
+                        </div>
+                        <div>
+                            <p class="text-gray-600 text-xs">Vote Count:</p>
+                            <p class="text-sm">1516</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+            <script src="https://cdn.tailwindcss.com"></script>
+            <script type="text/javascript">
+                AOS.init({
+                    duration: 1200,
+                });
+                
+                function getValue() {
+                    let dropdown = document.getElementById("tv-show-select");
+                    let selectedValue = dropdown.value;
+                    let url = document.URL;
+                    let newUrl = url.split('/').slice(0,-1).join('/') + '/' + selectedValue + '.html';
+                    window.location = newUrl;
+                }
+      
+            </script>
+        </body>
+</html>

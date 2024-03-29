@@ -1,0 +1,15 @@
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.AssemblyInfo.cs
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.sourcelink.json
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\bin\Debug\net8.0\Assignment04.exe
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\bin\Debug\net8.0\Assignment04.deps.json
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\bin\Debug\net8.0\Assignment04.runtimeconfig.json
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\bin\Debug\net8.0\Assignment04.dll
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\bin\Debug\net8.0\Assignment04.pdb
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.dll
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\refint\Assignment04.dll
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.pdb
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\Assignment04.genruntimeconfig.cache
+C:\Users\natha\Desktop\intro-dot-net\Assignment04\obj\Debug\net8.0\ref\Assignment04.dll
